@@ -1,0 +1,1 @@
+type-gql-resolver-sample
